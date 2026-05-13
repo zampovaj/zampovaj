@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hii</h1>
 
 <p align="center">
-  I’m an aspiring web developer from the Czech Republic. I mainly build web apps, but I’ll dive into anything I find interesting enough. I&nbspparticularly      enjoy learning through projects, applying the FAFO method religiously. Currently focusing on cybersecurity and cryptography.
+  I’m an aspiring web developer from the Czech Republic. I mainly build web apps, but I’ll dive into anything I find interesting enough. I&nbspparticularly      enjoy learning through projects, by breaking things until they work. Currently focusing on cybersecurity and cryptography.
 </p>
 
 ---
